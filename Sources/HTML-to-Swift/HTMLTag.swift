@@ -1,7 +1,7 @@
 import Foundation
 
 /// Collection of HTML tags and categories according to: https://www.w3schools.com/tags/ref_byfunc.asp .
-public enum HTMLTag: CaseIterable {
+public enum HTMLTag: String, CaseIterable {
     
     // MARK: Basic
     /// HTML heading tag
