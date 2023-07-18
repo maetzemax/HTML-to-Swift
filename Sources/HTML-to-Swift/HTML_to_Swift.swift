@@ -4,3 +4,4 @@ public struct HTML_to_Swift {
     public init() {
     }
 }
+
